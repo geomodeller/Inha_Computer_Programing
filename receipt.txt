@@ -1,0 +1,8 @@
+           Receipt            
+******************************
+apple 100x1  100 
+banana 200x3  600 
+carrot 300x2  600 
+Total: 1,300 
+******************************
+Thank you for shopping
